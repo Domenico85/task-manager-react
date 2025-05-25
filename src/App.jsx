@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState} from 'react';
 import { Plus, Calendar, Flag, Check, Trash2, Edit3, Search, Filter } from 'lucide-react';
 
 const TaskManager = () => {
