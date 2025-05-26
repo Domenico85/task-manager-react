@@ -81,9 +81,9 @@ A modern, responsive task management application built with React and Tailwind C
 
 ### Managing Tasks
 
-- **Complete Task** - Click the checkbox to mark as done
-- **Edit Task** - Click the edit icon to modify task details
-- **Delete Task** - Click the trash icon to remove permanently
+- **Complete Task** - Click the checkbox to mark as done.
+- **Edit Task** - Click the edit icon to modify task details.
+- **Delete Task** - Click the trash icon to remove permanently.
 
 ### Finding Tasks
 
